@@ -1,0 +1,16 @@
+PODS:
+  - DouYinScan (0.1.0)
+
+DEPENDENCIES:
+  - DouYinScan (from `../`)
+
+EXTERNAL SOURCES:
+  DouYinScan:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DouYinScan: fa229d23120dc38c056ecfcbc74366b3f134f443
+
+PODFILE CHECKSUM: ccbd6c08e4b653fca778407c7b2c5f40febfb286
+
+COCOAPODS: 1.6.1
