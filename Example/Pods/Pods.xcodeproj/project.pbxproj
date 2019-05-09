@@ -35,7 +35,7 @@
 /* Begin PBXFileReference section */
 		059F6B45079BD82F9DDD7D62B038CC1A /* Pods-DouYinScan_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-DouYinScan_Example-frameworks.sh"; sourceTree = "<group>"; };
 		0F278E5AA1D7C29389747948662CD094 /* ScanNetAnimation.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ScanNetAnimation.swift; path = DouYinScan/Classes/ScanNetAnimation.swift; sourceTree = "<group>"; };
-		183338942DF472326DCD40F94DB6FB87 /* Pods_DouYinScan_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_DouYinScan_Example.framework; path = "Pods-DouYinScan_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		183338942DF472326DCD40F94DB6FB87 /* Pods_DouYinScan_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_DouYinScan_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		21AD353C79BCCCD08E4DD8B218A67A12 /* DouYinScan-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "DouYinScan-prefix.pch"; sourceTree = "<group>"; };
 		31C584BE8D7771482821992C7AC91D51 /* Pods-DouYinScan_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-DouYinScan_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		3752FEFE572908BBA2CE14416D41B67C /* ScanViewController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ScanViewController.swift; path = DouYinScan/Classes/ScanViewController.swift; sourceTree = "<group>"; };
@@ -43,22 +43,21 @@
 		5BBDAE680B6743EBE016C18BBD00D386 /* ScanWrapper.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ScanWrapper.swift; path = DouYinScan/Classes/ScanWrapper.swift; sourceTree = "<group>"; };
 		601F7D78AD68C995B4EA61A2DAE5C2C8 /* ScanPermissions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ScanPermissions.swift; path = DouYinScan/Classes/ScanPermissions.swift; sourceTree = "<group>"; };
 		6F8BC91DCE4F39E9ACA02044ACC0C81C /* Pods-DouYinScan_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-DouYinScan_Example.release.xcconfig"; sourceTree = "<group>"; };
-		746F5751F9942564365DF7807F2B75DB /* DouYinScan.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = DouYinScan.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		746F5751F9942564365DF7807F2B75DB /* DouYinScan.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = DouYinScan.podspec; sourceTree = "<group>"; tabWidth = 2; };
 		7FE92E9368BA43CFEE385D94D3F6C742 /* ScanViewStyle.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ScanViewStyle.swift; path = DouYinScan/Classes/ScanViewStyle.swift; sourceTree = "<group>"; };
 		84687D130F4A3C1836295B5DDC29F14A /* Pods-DouYinScan_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-DouYinScan_Example-umbrella.h"; sourceTree = "<group>"; };
 		89F3C064BD3D3C08E14E514634772A4B /* Pods-DouYinScan_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-DouYinScan_Example-Info.plist"; sourceTree = "<group>"; };
-		8A8D4002B45B673D77D47229C382C1D3 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
 		9302F17CB4E016B5AB054C78B4BA3E5B /* DouYinScan-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "DouYinScan-umbrella.h"; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		A682FD826A23913D115FC7A1A76261E6 /* Pods-DouYinScan_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-DouYinScan_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		BA04ADB7A5D4065915F81866C95DB506 /* DouYinScan.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = DouYinScan.modulemap; sourceTree = "<group>"; };
 		C1632BEE4E0279E8254DDF8952161439 /* DouYinScan-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "DouYinScan-dummy.m"; sourceTree = "<group>"; };
 		C30C595F80681BFC6B011F9664B150B8 /* ScanView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ScanView.swift; path = DouYinScan/Classes/ScanView.swift; sourceTree = "<group>"; };
 		CB4607EFCA7C5F75397649E792E2AFCB /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		D26AE69339CD20EEBA7591CF8126BDF6 /* Pods-DouYinScan_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-DouYinScan_Example-dummy.m"; sourceTree = "<group>"; };
-		D36072ADD1C2A9608EFE87E806C84C20 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		D36072ADD1C2A9608EFE87E806C84C20 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		DB62AABF974558440EE79AF8B7FFDE88 /* DouYinScan.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = DouYinScan.xcconfig; sourceTree = "<group>"; };
-		E40A587C64C4A9133541C33DD0065A92 /* DouYinScan.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = DouYinScan.framework; path = DouYinScan.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		E40A587C64C4A9133541C33DD0065A92 /* DouYinScan.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = DouYinScan.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		E5716E8992F3D8071860B59234DB3FAB /* ScanLineAnimation.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ScanLineAnimation.swift; path = DouYinScan/Classes/ScanLineAnimation.swift; sourceTree = "<group>"; };
 		FE2CC63FD856B5633B2A668D2301C6CA /* Pods-DouYinScan_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-DouYinScan_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		FE95E3F43B0E3AFA0729829D5A874F89 /* Pods-DouYinScan_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-DouYinScan_Example.modulemap"; sourceTree = "<group>"; };
@@ -130,7 +129,6 @@
 			isa = PBXGroup;
 			children = (
 				746F5751F9942564365DF7807F2B75DB /* DouYinScan.podspec */,
-				8A8D4002B45B673D77D47229C382C1D3 /* LICENSE */,
 				D36072ADD1C2A9608EFE87E806C84C20 /* README.md */,
 			);
 			name = Pod;
@@ -549,8 +547,7 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_COMPILATION_MODE = wholemodule;
-				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				SWIFT_VERSION = 4.2;
 				SYMROOT = "${SRCROOT}/../build";
 			};
